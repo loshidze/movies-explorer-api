@@ -1,8 +1,8 @@
 const allowedCors = [
-  'https://belevkin.nomoredomains.monster',
-  'http://belevkin.nomoredomains.monster',
-  'https://api.belevkin.nomoredomains.monster',
-  'http://api.belevkin.nomoredomains.monster',
+  'https://belevkin.movies.nomoredomains.rocks',
+  'http://belevkin.movies.nomoredomains.rocks',
+  'https://api.belevkin.movies.nomoredomains.rocks',
+  'http://api.belevkin.movies.nomoredomains.rocks',
   'localhost:3000',
   'http://localhost:3000',
   'http://localhost:3001',
